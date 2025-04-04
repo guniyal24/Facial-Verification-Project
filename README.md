@@ -40,15 +40,16 @@ Facial-Verification-Project/
 │   ├── anchor/         # Target individual images
 │   ├── positive/       # Additional target images
 │   └── negative/       # Non-target individual images
-├── models/
-│   └── siamese_model/  # Trained model files
+├── Facial_Recognition_Model.h5/  #Trained model 
+│
+├── Face_Verification.ipynb/  #notebook 
+│
 ├── application/
 │   ├── Verification_images/  # Reference images for verification
 │   └── input_image/        # Temporary storage for captured images
-├── static/             # Web app static assets
 ├── templates/          # Flask HTML templates
 └── app.py /             # Flask web application
-└── requirements.txt /
+└── requirements.txt /    #requirements
 
 ```
 
